@@ -1,6 +1,12 @@
-## <p align='center'> ¡Hola! Soy Asael Espinoza, será un placer colaborar contigo 👋 </p>
+
+![Header](./new_header.png)
+
+## <p align='center'> ¡Hola! Bienvenido, será un placer colaborar contigo 👋 </p>
 
 <!--**AsaelEB/AsaelEB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://github.com/AsaelEB/AsaelEB/blob/main/new_header.png"/>
+</div>
 
 - 🔭 Actualmente trabajo en -->
 - 🌱 Actualmente estoy practicando Python y SQL, aprendiendo técnicas para análisis de datos.
@@ -19,8 +25,12 @@ A lo largo de mi trayecto profesional he tenido experiencia utilizando diversos 
 ## <p align='center'> Contacto </p>
 Puedes contactarme a través de los siguientes medios:
 <p align='center'>
-  <a href='https://www.linkedin.com/in/asael-eb/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
-  <a href='https://github.com/AsaelEB/'><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' /></a>
+  <a href='https://www.linkedin.com/in/asael-eb/'>
+      <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
+  </a>
+  <a href='https://github.com/AsaelEB/'>
+      <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' />
+  </a>
 </p>
 
 <!--
